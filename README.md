@@ -22,7 +22,7 @@ Start with Notebook 5 (from Day 1) and move on to Notebook 6, where you'll explo
 
 ## Day 3 Deep learning
 
-If you have never trained a ConvNet before (in particular, if you did not take the "Apprentissage Artificiel" course by Fabien Moutarde, start with http://perso.mines-paristech.fr/fabien.moutarde/ES_MachineLearning/TP_convNet/TP_convNets.html
+If you have never trained a ConvNet before (in particular, if you did not take the "Apprentissage Artificiel" course by Fabien Moutarde, start with http://perso.mines-paristech.fr/fabien.moutarde/ES_MachineLearning/TP_convNets/TP_convNets.html
 
 Then you can move on to transfer learning with deep networks at http://perso.mines-paristech.fr/fabien.moutarde/ES_LSML/TP_TransferLearning-ConvNet/TP_TransferLearning-ConvNets.html
 
