@@ -29,3 +29,8 @@ Then you can move on to transfer learning with deep networks at http://perso.min
 ## Day 4 Stochastic gradient descent
 
 A large part of machine learning rests on convex optimization and gradient descent techniques. How does one perform gradient descent with large data? This is what you'll explore in Notebook 7.
+
+## Personal installation
+Everything that is needed to do the labs should be installed on the Mines machines.
+
+If you want to do the labs on your own machine, you will need to have Python and all the relevant packages installed. The easiest way to install all the requirements is to install [Anaconda](https://www.continuum.io/downloads). If you prefer, you can also install only the required packages (numpy, scipy, matplotlib, seaborn, scikit-learn, pandas, jupyter) with pip if you already have Python.
